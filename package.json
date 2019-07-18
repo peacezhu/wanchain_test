@@ -1,0 +1,26 @@
+{
+  "name": "wanchain_test",
+  "version": "1.0.0",
+  "description": "test wanchain contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peacezhu/wanchain_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peacezhu/wanchain_test/issues"
+  },
+  "homepage": "https://github.com/peacezhu/wanchain_test#readme",
+  "dependencies": {
+    "wanchainjs-tx": "^1.5.0",
+    "web3": "^1.0.0-beta.55"
+  }
+}
